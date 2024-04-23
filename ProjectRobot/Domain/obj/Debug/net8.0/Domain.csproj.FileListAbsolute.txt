@@ -1,0 +1,11 @@
+C:\Projetos\ProjectRobot\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Projetos\ProjectRobot\Domain\bin\Debug\net8.0\Domain.dll
+C:\Projetos\ProjectRobot\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Projetos\ProjectRobot\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProjectRobot\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Projetos\ProjectRobot\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Projetos\ProjectRobot\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\ProjectRobot\Domain\obj\Debug\net8.0\Domain.dll
+C:\Projetos\ProjectRobot\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Projetos\ProjectRobot\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Projetos\ProjectRobot\Domain\obj\Debug\net8.0\ref\Domain.dll
